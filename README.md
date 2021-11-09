@@ -12,3 +12,4 @@
 
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://api.whatsapp.com/send?phone=819922061360)
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://api.whatsapp.com/send?phone=81992206136&text=Ol%C3%A1.%20Sou%20Jonas%20Monte.%20Esse%20%C3%A9%20meu%20contato%20pessoal.)
+
